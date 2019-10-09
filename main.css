@@ -42,9 +42,14 @@ h2 {
   font-family: 'Roboto Slab', serif;
   font-size: 3em;
   font-weight: 400;
-  color: #b11a21;
+  color: #7acfd6;
 }
 
+h3 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 1.75em;
+	color: #b11a21;
+}
 p {
   font-family: 'Roboto Slab', serif;
   font-size: 1em;
