@@ -7,3 +7,46 @@
 article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
     display:block;
 }
+
+header, main, footer {
+  text-align: center;
+  padding: 30px;
+}
+
+main {
+  background-color: #f1f0ee;
+}
+
+header {
+  background-color: #7acfd6;
+  padding: 75px;
+  margin: 0 auto;
+  vertical-align: middle;
+}
+
+footer {
+  background-color: #e0474c;
+}
+
+footer p {
+  color: #fff;
+}
+h1 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 5em;
+  font-weight: 700;
+  color: #fff;
+}
+
+h2 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 3em;
+  font-weight: 400;
+  color: #b11a21;
+}
+
+p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1em;
+  font-weight: 300;
+}
