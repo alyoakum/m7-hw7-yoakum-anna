@@ -1,1 +1,2 @@
-# m7-hw7-yoakum-anna
+# Adv. Web II - Homework 7
+# I had no issues with this and only referenced course materials.
